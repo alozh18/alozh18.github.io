@@ -1,0 +1,26 @@
+<style>
+body {
+	background-color: LightYellow;
+}
+h1 {
+	color: Orange;
+	font-style: italic;
+	text-align: center;
+}
+p {
+	font-family: Lucida Sans;
+	font-size: 20px;
+}
+ul {
+	font-family: Lucida Sans;
+}
+ol {
+	font-family: Lucida Sans;
+}
+table {
+        font-family: Lucida Sans;
+}
+dl {
+        font-family: Lucida Sans;
+}
+</style>
